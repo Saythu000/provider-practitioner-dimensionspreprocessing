@@ -1,0 +1,1 @@
+-- DDL for gold.provider_group_reference table

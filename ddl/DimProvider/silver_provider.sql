@@ -1,0 +1,1 @@
+-- DDL for silver.provider staging table

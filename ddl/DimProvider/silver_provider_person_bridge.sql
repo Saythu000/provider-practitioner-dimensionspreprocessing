@@ -1,0 +1,1 @@
+-- DDL for silver.provider_person_bridge table

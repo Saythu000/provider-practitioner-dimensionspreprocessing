@@ -1,0 +1,1 @@
+-- DDL for gold.dimprovider reporting dimension table
